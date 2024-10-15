@@ -1,3 +1,7 @@
 pandas
 gensim
 nltk
+requests
+spacy
+numpy
+scipy
