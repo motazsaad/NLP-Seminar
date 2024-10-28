@@ -6,3 +6,14 @@ spacy
 numpy
 scipy
 tensorflow
+ollama
+langchain-huggingface
+faiss-cpu
+langchain
+langchain-community
+tf-keras
+ipywidgets
+tiktoken
+langchainhub
+sentence_transformers
+BeautifulSoup4
